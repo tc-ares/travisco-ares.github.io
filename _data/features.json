@@ -1,0 +1,29 @@
+[
+  {
+    "title": "Travis County Texas",
+    "description": "TCARES serves the residents of Travis County, Texas.",
+    "image": {
+      "url": "images/features/travis-county-tx-seal-1.svg",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "ARRL",
+    "description": "All members are registered members of the American Radio Relay League.",
+    "image": {
+      "url": "images/features/arrl_logo.svg",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "National Weather Service",
+    "description": "We partner with the National Weather Service to provide the most accurate weather information.",
+    "image": {
+      "url": "images/features/nws-logo.svg",
+      "width": 80,
+      "height": 80
+    }
+  }
+]
