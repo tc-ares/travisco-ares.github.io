@@ -11,8 +11,6 @@ Monthly meetings are held the 4th Tuesday of the month at 7:00 pm at the Applied
 
 Weekly Nets are each Sunday evening at 7:00 pm on the 147.36 repeater (tone 131.8).
 
-![Accounting Services](/images/thom-holmes-Lrfw0U_o9I0-unsplash.jpg)
-
 # Our served agencies
 
 ARCHES (Amateur Radio Communication Hospitals Emergency System) provides back-up voice and packet communications between 15 area hospitals and the Emergency Operations Center
